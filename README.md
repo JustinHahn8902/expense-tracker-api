@@ -1,0 +1,1 @@
+This is just a simple dummy project which tracks expenses in a database. This uses Django and REST API to perform database operations. The database used is a default django sqlite3 database. There are also many unit tests written as this was created using Test Driven Development.
